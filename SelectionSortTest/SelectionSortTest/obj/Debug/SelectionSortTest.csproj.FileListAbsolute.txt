@@ -1,0 +1,5 @@
+/Users/Mathew/Projects/SelectionSortTest/SelectionSortTest/bin/Debug/SelectionSortTest.exe
+/Users/Mathew/Projects/SelectionSortTest/SelectionSortTest/bin/Debug/SelectionSortTest.pdb
+/Users/Mathew/Projects/SelectionSortTest/SelectionSortTest/obj/Debug/SelectionSortTest.csprojAssemblyReference.cache
+/Users/Mathew/Projects/SelectionSortTest/SelectionSortTest/obj/Debug/SelectionSortTest.exe
+/Users/Mathew/Projects/SelectionSortTest/SelectionSortTest/obj/Debug/SelectionSortTest.pdb

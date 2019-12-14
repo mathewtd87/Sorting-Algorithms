@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortTest", "MergeSortTest\MergeSortTest.csproj", "{C67F6C4F-4015-4B64-A52F-89363F39B5EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C67F6C4F-4015-4B64-A52F-89363F39B5EE}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C67F6C4F-4015-4B64-A52F-89363F39B5EE}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C67F6C4F-4015-4B64-A52F-89363F39B5EE}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C67F6C4F-4015-4B64-A52F-89363F39B5EE}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

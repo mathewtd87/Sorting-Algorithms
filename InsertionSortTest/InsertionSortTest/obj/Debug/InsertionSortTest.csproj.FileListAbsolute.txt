@@ -1,0 +1,5 @@
+/Users/Mathew/Projects/InsertionSortTest/InsertionSortTest/bin/Debug/InsertionSortTest.exe
+/Users/Mathew/Projects/InsertionSortTest/InsertionSortTest/bin/Debug/InsertionSortTest.pdb
+/Users/Mathew/Projects/InsertionSortTest/InsertionSortTest/obj/Debug/InsertionSortTest.csprojAssemblyReference.cache
+/Users/Mathew/Projects/InsertionSortTest/InsertionSortTest/obj/Debug/InsertionSortTest.exe
+/Users/Mathew/Projects/InsertionSortTest/InsertionSortTest/obj/Debug/InsertionSortTest.pdb
